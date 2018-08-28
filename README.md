@@ -32,6 +32,9 @@
 3. 面積：0.91~0.97平方公里，平均為0.94±0.03平方公里。
 ![Level 4網格](/img/level4.png)
 
+## 陸域網格
+以內政部國土測繪中心鄉鎮市區界線(TWD97經緯度)圖資(https://data.gov.tw/dataset/7441)套疊取得網格內涵蓋陸域之編號清單: GridsinLand.txt
+
 ## 範例
 1. htmlsample/TWGRID_WGS84.html網頁範例可依地圖比例尺動態呈現不同層級之網格，且可點擊地圖上任何一點獲得該位置之網格編號。  
 javascript函式位於htmlsample/TWGRID_WGS84.js。
