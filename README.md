@@ -39,3 +39,5 @@
 1. htmlsample/TWGRID_WGS84.html網頁範例可依地圖比例尺動態呈現不同層級之網格，且可點擊地圖上任何一點獲得該位置之網格編號。  
 javascript函式位於htmlsample/TWGRID_WGS84.js。
 2. https://gapfiller.tbn.org.tw/ eBird Taiwan秋季大挑戰 使用本網格系統。
+3. [Google Earth 100公里網格kmz檔](grids_100km.kmz)
+4. [Google Earth 1公里台灣陸域網格kmz檔](grids_1km_land.kmz)
