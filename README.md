@@ -36,8 +36,8 @@
 以內政部國土測繪中心鄉鎮市區界線(TWD97經緯度)圖資(https://data.gov.tw/dataset/7441)套疊取得網格內涵蓋陸域之編號清單: GridsinLand.txt
 
 ## 範例
-1. htmlsample/TWGRID_WGS84.html網頁範例可依地圖比例尺動態呈現不同層級之網格，且可點擊地圖上任何一點獲得該位置之網格編號。  
-javascript函式位於htmlsample/TWGRID_WGS84.js。
+1. [htmlsample/TWGRID_WGS84.html](https://redbirdtaiwan.github.io/TWGrid-WGS84/htmlsample/TWGRID_WGS84.html)網頁範例可依地圖比例尺動態呈現不同層級之網格，且可點擊地圖上任何一點獲得該位置之網格編號。  
+javascript函式位於[htmlsample/TWGRID_WGS84.js](https://github.com/RedbirdTaiwan/TWGrid-WGS84/blob/master/htmlsample/TWGRID_WGS84.js)。
 2. https://gapfiller.tbn.org.tw/ eBird Taiwan秋季大挑戰 使用本網格系統。
 3. [Google Earth 100公里網格kmz檔](grids_100km.kmz)
 4. [Google Earth 1公里台灣陸域網格kmz檔](grids_1km_land.kmz)
